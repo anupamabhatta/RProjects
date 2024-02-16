@@ -4,15 +4,15 @@ This repository contains a collection of HTML files generated from R scripts. Ea
 
 ## Folder Structure
 
-* Worksheet_1.html
-* Worksheet_2.html
-* Worksheet_3.html
-* Worksheet_4.html
-* Worksheet_5.html
-* Worksheet_6.html
-* Worksheet_7.html
-* Worksheet_8.html
-* Worksheet_9.html
+* Worksheet 1.html
+* Worksheet 2.html
+* Worksheet 3.html
+* Worksheet 4.html
+* Worksheet 5.html
+* Worksheet 6.html
+* Worksheet 7.html
+* Worksheet 8.html
+* Worksheet 9.html
 
 ## Usage
 
